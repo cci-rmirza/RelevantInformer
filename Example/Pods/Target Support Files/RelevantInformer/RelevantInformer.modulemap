@@ -1,0 +1,6 @@
+framework module RelevantInformer {
+  umbrella header "RelevantInformer-umbrella.h"
+
+  export *
+  module * { export * }
+}

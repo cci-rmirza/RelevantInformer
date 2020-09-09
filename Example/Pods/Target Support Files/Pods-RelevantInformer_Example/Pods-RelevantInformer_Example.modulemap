@@ -1,0 +1,6 @@
+framework module Pods_RelevantInformer_Example {
+  umbrella header "Pods-RelevantInformer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

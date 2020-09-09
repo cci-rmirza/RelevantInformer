@@ -1,0 +1,16 @@
+PODS:
+  - RelevantInformer (0.1.0)
+
+DEPENDENCIES:
+  - RelevantInformer (from `../`)
+
+EXTERNAL SOURCES:
+  RelevantInformer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RelevantInformer: a1316e7dbbf89fd5339a644b74e9fb526682c2cb
+
+PODFILE CHECKSUM: 3a394abad39b92213fd0ff86ebcfeea89c0b3218
+
+COCOAPODS: 1.9.3
