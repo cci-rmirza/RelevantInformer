@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RelevantInformer_Example' do
+  pod 'RelevantInformer', :path => '../'
+
+  target 'RelevantInformer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
